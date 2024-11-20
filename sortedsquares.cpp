@@ -1,4 +1,3 @@
-
 int*sortedsquares(int*arr,int sz)
 {
     int*ans = (int*)malloc(sz*sizeof(int));
